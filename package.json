@@ -1,0 +1,34 @@
+{
+  "name": "meteor-avatar-core",
+  "version": "0.0.1",
+  "description": "Get a Meteor user's avatar",
+  "main": "main.js",
+  "author": "Gwendall Esnault <gwendall.esnault@gmail.com>",
+  "license": "MIT",
+  "homepage": "https://github.com/gwendall/meteor-avatar-core",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gwendall/meteor-avatar-core.git"
+  },
+  "bugs": {
+    "url": "https://github.com/gwendall/meteor-avatar-core/issues"
+  },
+  "tags": [
+    "meteor",
+    "avatar",
+    "profile",
+    "picture"
+  ],
+  "keywords": [
+    "meteor",
+    "avatar",
+    "profile",
+    "picture"
+  ],
+  "dependencies": {
+    "gravatar": "^1.5.2",
+    "underscore": "^1.8.3"
+  },
+  "scripts": {
+  }
+}
